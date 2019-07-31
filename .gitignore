@@ -1,0 +1,5 @@
+incremental_db/
+output_files/
+db/
+.*
+!.gitignore
